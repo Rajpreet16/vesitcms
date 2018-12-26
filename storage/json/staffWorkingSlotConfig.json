@@ -1,0 +1,55 @@
+{
+	"slot": [{
+			"T1": [{
+				"start_time": "08:05:00",
+				"end_time": "14:45:00",
+				"description": "Teaching Staff, First Working Slot",
+				"first_late": "08:25:00",
+				"second_late": "08:45:00",
+				"absent": "09:00:00"
+
+			}]
+		},
+		{
+			"T2": [{
+				"start_time": "10:20:00",
+				"end_time": "17:00:00",
+				"description": "Teaching Staff, Second Working Slot",
+				"first_late": "10:40:00",
+				"second_late": "11:00:00",
+				"absent": "11:20:00"
+			}]
+		},
+		{
+			"T3": [{
+				"start_time": "11:20:00",
+				"end_time": "18:00:00",
+				"description": "Teaching Staff, Third Working Slot"
+			}]
+		},
+		{
+			"NT1": [{
+				"start_time": "08:00:00",
+				"end_time": "15:00:00",
+				"description": "Non-Teaching Staff, First Working Slot",
+				"first_late": "08:30:00",
+				"second_late": "09:00:00",
+				"absent": "09:15:00"
+			}]
+		},
+		{
+			"NT2": [{
+				"start_time": "10:00:00",
+				"end_time": "17:00:00",
+				"description": "Non-Teaching Staff, Second Working Slot"
+			}]
+		},
+		{
+			"NT3": [{
+				"start_time": "11:00:00",
+				"end_time": "18:00:00",
+				"description": "Non-Teaching Staff, Third Working Slot"
+			}]
+		}
+	]
+}
